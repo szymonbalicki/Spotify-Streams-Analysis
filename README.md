@@ -55,7 +55,7 @@ ORDER BY total_streams DESC;
 
 ![Top Songs](/SQL/top_songs.png)
 ![Top Artists](/SQL/top_artist.png)
-![Artist Impact](/SQL/impact.png)
+![Artist Impact](/SQL/Impact.png)
 
 ---
 
