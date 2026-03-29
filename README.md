@@ -52,9 +52,11 @@ ORDER BY total_streams DESC;
 ```
 
 ### 📸 SQL Results
-
+### Top 10 Most Streamed Songs
 ![Top Songs](/SQL/top_songs.png)
+### Top Artists by Total Streams
 ![Top Artists](/SQL/top_artist.png)
+
 ![Artist Impact](/SQL/Impact.png)
 
 ---
