@@ -53,9 +53,9 @@ ORDER BY total_streams DESC;
 
 ### 📸 SQL Results
 
-![Top Songs](./SQL/top_songs.png)
-![Top Artists](./SQL/top_artist.png)
-![Artist Impact](./SQL/impact.png)
+![Top Songs](/SQL/top_songs.png)
+![Top Artists](/SQL/top_artist.png)
+![Artist Impact](/SQL/impact.png)
 
 ---
 
