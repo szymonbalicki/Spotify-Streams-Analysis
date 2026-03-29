@@ -110,7 +110,7 @@ A simplified mobile layout was also created to ensure readability and usability 
  ├── 📁 PowerBI
  │    └── dashboard.png
  ├── 📁 SQL
- │    ├── queries.sql
+ │    ├── Dataset covers Spotify Wrapped 2025 data.sql
  │    ├── Impact.png
  │    ├── top_artist.png
  │    └── top_songs.png
@@ -121,7 +121,7 @@ A simplified mobile layout was also created to ensure readability and usability 
 
 ## 📸 Dashboard Preview
 
-![Dashboard](./PowerBI/dashboard.png)
+![Dashboard](/PowerBI/dashboard.png)
 
 ---
 
