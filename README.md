@@ -16,7 +16,7 @@ This project analyzes Spotify streaming data for 2025 to identify trends in song
 
 ### 1. Top 10 Most Streamed Songs (2025)
 
-![Top Songs](images/top_songs.png)
+![Top Songs](image/top_songs.png)
 
 👉 Insight: The most streamed songs significantly outperform others, indicating a strong popularity gap.
 
@@ -24,7 +24,7 @@ This project analyzes Spotify streaming data for 2025 to identify trends in song
 
 ### 2. Top Artists by Total Streams (2025)
 
-![Top Artists](images/top_artists.png)
+![Top Artists](image/top_artists.png)
 
 👉 Insight: A small group of artists dominates total streaming volume, suggesting a winner-takes-most dynamic.
 
@@ -32,7 +32,7 @@ This project analyzes Spotify streaming data for 2025 to identify trends in song
 
 ### 3. Relationship Between Streams and Ranking Presence (2025)
 
-![Streams vs Ranking](images/streams_vs_ranking.png)
+![Streams vs Ranking](image/impact.png)
 
 👉 Insight: Artists with higher total streams tend to appear more frequently in the Top 50, indicating a concentration of popularity.
 
